@@ -20,6 +20,9 @@ Provider + SharedPreferences – Real-time state management with persistent stor
 ![WhatsApp Image 2025-08-25 at 00 22 52_8ff52815](https://github.com/user-attachments/assets/df225495-a56a-43e6-b9d7-58d0840cbf8a)
 ![WhatsApp Image 2025-08-25 at 00 22 52_ec800a65](https://github.com/user-attachments/assets/f43ec271-c85d-4d09-a3d7-c4ee73d97bc4)
 ![WhatsApp Image 2025-08-25 at 00 22 52_c23a8155](https://github.com/user-attachments/assets/10f3df85-4367-4204-8bbe-53949970f0c6)
+![1000048378](https://github.com/user-attachments/assets/fd1035d9-26d5-41cf-96e9-694fa573e227)
+
+
 ![WhatsApp Image 2025-08-25 at 00 22 50_a0b46c40](https://github.com/user-attachments/assets/f0e0a0c3-2083-490c-a36f-c5ff6f2f0414)
 ![WhatsApp Image 2025-08-25 at 00 22 49_0f349eac](https://github.com/user-attachments/assets/a4fd8303-cc63-462d-9ad0-7b2d0f92be52)
 ![WhatsApp Image 2025-08-25 at 00 24 18_00ff59cc](https://github.com/user-attachments/assets/e5858c79-37fd-4fe6-a8c9-71e28ea3ffbc)
