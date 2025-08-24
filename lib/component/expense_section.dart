@@ -99,7 +99,7 @@ class ExpenseSection extends StatelessWidget {
                               fontSize: responsive.fontSize(14, 18),
                             ),
                           ),
-                          const SizedBox(width: 8),
+                          const SizedBox(width: 4),
                           EditExpenseButton(
                             expense: expense,
                             provider: amountProvider,
@@ -112,6 +112,18 @@ class ExpenseSection extends StatelessWidget {
                             ),
                             onPressed: () {
                               amountProvider.deleteTransaction(expense);
+                              ScaffoldMessenger.of(context).showSnackBar(
+                                SnackBar(
+                                  content: const Text("Expense deleted "),
+                                  backgroundColor: Colors.red,
+                                  behavior: SnackBarBehavior.floating,
+                                  duration: const Duration(seconds: 3),
+                                  shape: RoundedRectangleBorder(
+                                    borderRadius: BorderRadius.circular(12),
+                                  ),
+                                  margin: const EdgeInsets.all(16),
+                                ),
+                              );
                             },
                           ),
                         ],
